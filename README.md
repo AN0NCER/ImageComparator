@@ -407,9 +407,22 @@ comparator.compare('image1.png', 'image2.png').then(similarity => {
  
  ___
  
- Вот пример сравнение двух изображений:
+ Вот несколько примеров сравнение двух изображений:
  
- ![example1.png]()
+ ![First](https://github.com/AN0NCER/ImageComparator/blob/main/example1.png?raw=true)
+ 
+ 
+ >100% совпадение
+ 
+ ![Second](https://github.com/AN0NCER/ImageComparator/blob/main/example2.png?raw=true)
+ 
+ 
+ >70% совпадение
+ 
+ ![Last](https://github.com/AN0NCER/ImageComparator/blob/main/example3.png?raw=true)
+ 
+ 
+ >38% совпадение
  
  ___
  
