@@ -409,6 +409,7 @@ comparator.compare('image1.png', 'image2.png').then(similarity => {
  
  Вот пример сравнение двух изображений:
  
+ ![example1.png]()
  
  ___
  
